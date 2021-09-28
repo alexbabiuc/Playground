@@ -24,4 +24,4 @@ printf "%d" ((fun x -> x + 2) 10);;
 let f x = 2 * x ;;
 let f x = 2 * x + 1;;
 
-f 3;;
+f 3
